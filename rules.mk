@@ -1,0 +1,7 @@
+SERIAL_DRIVER = usart
+
+### >> CUSTOM << ###
+UNICODE_ENABLE = yes
+
+RGBLIGHT_ENABLE = yes
+
