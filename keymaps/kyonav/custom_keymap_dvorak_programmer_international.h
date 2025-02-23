@@ -90,7 +90,7 @@
 #define DP_DOWN KC_DOWN
 #define DP_UP KC_UP
 #define DP_LEFT KC_LEFT
-#define DP_RIGHT KC_RIGHT
+#define DP_RGHT KC_RGHT
 
 // F Keys
 #define DP_F1 KC_F1
